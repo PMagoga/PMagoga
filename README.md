@@ -15,10 +15,10 @@ Devido a minha formação em Matemática e experiência na área de dados. Atuei
 [![My Skills](https://skillicons.dev/icons?i=angular,docker,dotnet,idea,java,spring)](https://skillicons.dev)
 
 ## Tecnologias que eu tenho familiaridade:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,postgres,py,sqlite,ubuntu,vscode,postman,mint,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,postgres,py,sqlite,ubuntu,vscode,postman,mint,vite,nodejs,npm)](https://skillicons.dev)
 
 ## Tecnologias que eu estou aprendendo no momento:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,react,ts,nestjs,nextjs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nestjs,nextjs,express)](https://skillicons.dev)
 
 ## Como me encontrar
 <div> 
