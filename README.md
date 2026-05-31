@@ -9,16 +9,19 @@ Devido a minha formação em Matemática e experiência na área de dados. Atuei
 
 ## 🏢 Atuação Profissional
 - Sargento do Exército Brasileiro
-- Professor de Física e Matemática do Colégio Militar de Manaus -AM
+- Professor de Física e Matemática do Colégio Militar de Manaus - AM
 
 ## Tecnologias que eu já tive contato:
-[![My Skills](https://skillicons.dev/icons?i=angular,docker,dotnet,idea,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,docker,dotnet,cs,py,electron,pycharm)](https://skillicons.dev)
 
 ## Tecnologias que eu tenho familiaridade:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,postgres,py,sqlite,ubuntu,vscode,postman,mint,vite,nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,postgres,sqlite,ubuntu,vscode,eclipse,idea,postman,mint,vite,nodejs,npm,githubactions,linux,tailwind)](https://skillicons.dev)
 
-## Tecnologias que eu estou aprendendo no momento:
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nestjs,nextjs,express)](https://skillicons.dev)
+## Linguagens que eu tenho familiaridade:
+[![My Skills](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+
+## Tecnologias que eu estou usando no momento:
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,express,maven,spring)](https://skillicons.dev)
 
 ## Como me encontrar
 <div> 
